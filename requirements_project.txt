@@ -4,3 +4,4 @@ lightgbm
 catboost
 optuna
 holidays
+shap
