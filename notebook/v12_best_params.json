@@ -1,0 +1,9 @@
+{
+    "alpha": 1.0204198774595432,
+    "max_depth": 12,
+    "num_leaves": 352,
+    "learning_rate": 0.044599096686299536,
+    "feature_fraction": 0.9571121632940859,
+    "bagging_fraction": 0.9093089337534547,
+    "min_child_samples": 49
+}
